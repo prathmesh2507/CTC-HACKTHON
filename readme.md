@@ -64,7 +64,7 @@ Based on:
 1️⃣ git clone https://github.com/YOUR_USERNAME/routewise-ai-transport.git 
 2️⃣ cd routewise-ai-transport 
 3️⃣ pip install -r requirements.txt 
-4️⃣ python -m streamlit run routewise_streamlit_app.py
+4️⃣ python -m streamlit run app.py
 ```
 ---
 ## 📸 Dashboard Preview
