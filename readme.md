@@ -68,7 +68,8 @@ Based on:
 ```
 ---
 ## 📸 Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot_1.jpeg)
+![Dashboard](screenshot_2.jpeg)
 
 ---
 ## 💡 Future Improvements
