@@ -69,7 +69,7 @@ Based on:
 ---
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot_1.jpeg)
-![Dashboard](screenshot_2.jpeg)
+![Dashboard](Screenshot_2.jpeg)
 
 ---
 ## 💡 Future Improvements
