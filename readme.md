@@ -74,6 +74,8 @@ https://ctc-hackthon-dys4t4vucykonlztwhk3re.streamlit.app/
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot_1.jpeg)
 ![Dashboard](Screenshot_2.jpeg)
+## 📸 Flowchart Preview
+![Flowchart](Screenshot_3.jpeg)
 
 ---
 ## 💡 Future Improvements
