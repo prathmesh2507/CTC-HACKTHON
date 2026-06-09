@@ -67,10 +67,7 @@ Based on:
 4️⃣ python -m streamlit run app.py
 ```
 ---
-## 🔗 Live Project:
-https://ctc-hackthon-dys4t4vucykonlztwhk3re.streamlit.app/
 
----
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot_1.jpeg)
 ![Dashboard](Screenshot_2.jpeg)
