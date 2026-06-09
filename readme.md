@@ -71,8 +71,11 @@ Based on:
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot_1.jpeg)
 ![Dashboard](Screenshot_2.jpeg)
-## 📸 Flowchart Preview
-![Flowchart](Screenshot_3.jpeg)
+
+---
+
+## Live demo
+[Live Demo](https://ctc-hackthon-dys4t4vucykonlztwhk3re.streamlit.app/)
 
 ---
 ## 💡 Future Improvements
